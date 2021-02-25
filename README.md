@@ -1,1 +1,1 @@
-All codes are in MATLAB. The course are for relevant coursework of MLPR conducted at LNMIIT.
+All codes are in MATLAB. The codes are for relevant coursework of MLPR conducted at LNMIIT.
